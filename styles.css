@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('miguel.jpg.png');
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://images.gmanews.tv/webpics/2018/02/NPA_2018_02_18_13_25_09.jpg');
     background-size: cover;
     font-family: Arial, sans-serif;
     color: white;
@@ -66,3 +66,4 @@ th, td {
     font-size: 18px;
 
 }
+
