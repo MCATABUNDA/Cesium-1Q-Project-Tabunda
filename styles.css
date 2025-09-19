@@ -1,0 +1,67 @@
+body {
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('miguel.png');
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    color: white;
+    text-shadow: 1px 1px 2px black;
+    margin: 0;
+    padding: 20px;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+.nav-left {
+    float: left;
+}
+.nav-right {
+    float: right;
+}
+.nav-right a {
+    margin-left: 20px;
+}
+h1 {
+    text-align: center;
+    clear: both;
+    font-size: 60px;
+    font-family: Georgia, serif;
+    margin: 40px 0;
+}
+h2 {
+    font-size: 28px;
+    font-family: Georgia, serif;
+    margin: 20px 0;
+    text-align: center;
+}
+p {
+    font-size: 20px;
+    line-height: 1.6;
+    margin: 0 auto 20px auto;
+    max-width: 1400px;
+}
+.section-left {
+    float: left;
+    width: 45%;
+    margin-right: 5%;
+    text-align: left;
+}
+.section-right {
+    float: right;
+    width: 45%;
+    text-align: left;
+}
+.clear {
+    clear: both;
+}
+table {
+    border: 1px solid white;
+    margin: 20px auto;
+    border-collapse: collapse;
+    max-width: 1400px;
+}
+th, td {
+    border: 1px solid white;
+    padding: 10px;
+    text-align: left;
+    font-size: 18px;
+}
