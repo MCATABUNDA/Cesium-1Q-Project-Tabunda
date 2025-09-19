@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('miguel.png');
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('miguel.jpg.png');
     background-size: cover;
     font-family: Arial, sans-serif;
     color: white;
@@ -64,4 +64,5 @@ th, td {
     padding: 10px;
     text-align: left;
     font-size: 18px;
+
 }
